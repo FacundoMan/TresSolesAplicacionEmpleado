@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/drawable/borde.xml" value="0.1475" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_administrador_tab.xml" value="0.22" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_cambiar_celular.xml" value="0.103125" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_cambiar_password.xml" value="0.15" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_detalle_pedido.xml" value="0.25" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_elemento_empleados.xml" value="0.22" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_elemento_lista_productos_pequenio.xml" value="0.25" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_elemento_pedidos.xml" value="0.67" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_elemento_pedidos_pequenio.xml" value="0.33" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_login.xml" value="0.103125" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/activity_probando_tab.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_crear_empleado.xml" value="0.18" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_crear_producto.xml" value="0.22" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_detalle_producto.xml" value="0.18" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_detalle_usuario.xml" value="0.18" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_detalles_pedido.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_en_contruccion.xml" value="0.103125" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_gerente.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_item.xml" value="0.103125" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_item_list.xml" value="0.1" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_lista_empleados.xml" value="0.1375" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_lista_pedidos.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_lista_productos.xml" value="0.1" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_picker.xml" value="0.1703125" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/fragment_repartidor.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/plantilla_gerente.xml" value="0.21" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/plantilla_picker.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/popup_modificar_celular.xml" value="0.18" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/popup_modificar_password.xml" value="0.18" />
+        <entry key="..\:/Users/Administrador/AndroidStudioProjects/EmpleadosAplicationTresSoles/app/src/main/res/layout/spinner_estilo.xml" value="0.18385416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

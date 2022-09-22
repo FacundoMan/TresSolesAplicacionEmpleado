@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/tab4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:orientation="vertical">
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+
+                        <ImageButton
+                            android:id="@+id/ibEmpleados"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center"
+                            android:background="@drawable/borde"
+                            android:foregroundGravity="center"
+                            android:scaleType="centerInside"
+                            android:layout_marginBottom="4dp"
+                            app:srcCompat="@drawable/empleados" />
+                        <ImageButton
+                            android:id="@+id/ibAgregarProducto"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center"
+                            android:background="@drawable/borde"
+                            android:foregroundGravity="center"
+                            android:scaleType="centerInside"
+                            android:layout_marginBottom="4dp"
+                            app:srcCompat="@drawable/addproduct" />
+                        <ImageButton
+                            android:id="@+id/ibProductos"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center"
+                            android:background="@drawable/borde"
+                            android:foregroundGravity="center"
+                            android:scaleType="centerInside"
+                            android:layout_marginBottom="4dp"
+                            app:srcCompat="@drawable/products" />
+                        <ImageButton
+                            android:id="@+id/ibPedidos"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center"
+                            android:background="@drawable/borde"
+                            android:foregroundGravity="center"
+                            android:scaleType="centerInside"
+                            android:layout_marginBottom="4dp"
+                            app:srcCompat="@drawable/entregadepedidos" />
+                        <ImageButton
+                            android:id="@+id/ibGestion"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:layout_gravity="center"
+                            android:background="@drawable/borde"
+                            android:foregroundGravity="center"
+                            android:scaleType="centerInside"
+                            android:layout_marginBottom="4dp"
+                            app:srcCompat="@drawable/analitica" />
+
+                    </LinearLayout>
+                </ScrollView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:orientation="vertical">
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    tools:ignore="SpeakableTextPresentCheck">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <FrameLayout
+                            android:id="@+id/idFragmentGerente"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                        </FrameLayout>
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

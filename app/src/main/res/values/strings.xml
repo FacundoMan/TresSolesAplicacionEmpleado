@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">EmpleadosAplicationTresSoles</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="estadoPicker">
+        <item>Todos</item>
+        <item>En Espera</item>
+        <item>Armando</item>
+        <item>Por Recoger</item>
+    </string-array>
+
+    <string-array name="idEstadoPicker">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="estadoRepartidor">
+        <item name="0">Todos</item>
+        <item name="3">Por Recoger</item>
+        <item name="4">En Camino</item>
+        <item name="6">Entregado</item>
+    </string-array>
+
+    <string-array name="idEstadoRepartidor">
+        <item>0</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="estadosGerente">
+        <item>Todos</item>
+        <item>En Espera</item>
+        <item>Armando</item>
+        <item>Por Recoger</item>
+        <item>En Camino</item>
+        <item>Cancelado</item>
+        <item>Entregado</item>
+    </string-array>
+    <string-array name="idEstadosGerente">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+
+    <string-array name="cambiarEstadoDetalle">
+        <item>En Espera</item>
+        <item>Armando</item>
+        <item>Por Recoger</item>
+        <item>En Camino</item>
+        <item>Cancelado</item>
+        <item>Entregado</item>
+    </string-array>
+
+    <string-array name="categoriasProducto">
+        <item>Elegir categoria</item>
+        <item>FERRETERIA</item>
+        <item>PANADERIA</item>
+        <item>PAPELERIA</item>
+        <item>CARNICERIA</item>
+        <item>ROTISERIA</item>
+        <item>VERDULERIA</item>
+        <item>ALMACEN</item>
+        <item>BEBIDAS Y REFRESCOS</item>
+    </string-array>
+    <string-array name="categoriasProductoId">
+        <item>0</item>
+        <item>Ferreteria</item>
+        <item>Panaderia</item>
+        <item>Carniceria</item>
+        <item>Rotiseria</item>
+        <item>Verduleria</item>
+        <item>Almacen</item>
+        <item>Bebidas y refrescos</item>
+    </string-array>
+
+    <string-array name="registroRol">
+        <item>Elegir Rol</item>
+        <item>Picker</item>
+        <item>Repartidor</item>
+    </string-array>
+</resources>
